@@ -1,0 +1,29 @@
+body{
+    background-color: powderblue;
+}
+hr{
+    height: 0px;
+    width: 5%;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 10px;
+}
+h1 {
+    color:orangered;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: chocolate;
+}
+h4{
+    color:purple;
+}
+li{
+    color: rgb(16, 105, 188);
+}
+label{
+    color: darkgreen;
+}
+ 
